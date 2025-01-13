@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding GIF" width="600" height="300"/>
 </p>
+
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** and **Machine Learning Engineer** with a strong focus on solving real-world problems through innovative AI/ML solutions.
 
 ---
